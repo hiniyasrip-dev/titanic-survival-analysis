@@ -12,6 +12,12 @@ This project explores the Titanic dataset using Python and Exploratory Data Anal
 * Visualize key relationships
 * Generate insights from the data
 
+## Dataset Source
+
+The dataset used in this project is the Titanic dataset, publicly available from Data Science Dojo:
+
+https://raw.githubusercontent.com/datasciencedojo/datasets/master/titanic.csv
+
 ## Tools Used
 
 * Python
